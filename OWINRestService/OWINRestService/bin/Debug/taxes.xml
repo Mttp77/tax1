@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMunicipality xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Municipality>
+    <MunicipalityName>Vilnius</MunicipalityName>
+    <TaxDate>2016-01-01T00:00:00</TaxDate>
+    <Tax>0.1</Tax>
+  </Municipality>
+  <Municipality>
+    <MunicipalityName>Vilnius</MunicipalityName>
+    <TaxDate>2016-03-20T00:00:00</TaxDate>
+    <Tax>0.2</Tax>
+  </Municipality>
+  <Municipality>
+    <MunicipalityName>Vilnius</MunicipalityName>
+    <TaxDate>2016-04-20T00:00:00</TaxDate>
+    <Tax>0.4</Tax>
+  </Municipality>
+  <Municipality>
+    <MunicipalityName>Vilnius</MunicipalityName>
+    <TaxDate>2016-05-02T00:00:00</TaxDate>
+    <Tax>0.4</Tax>
+  </Municipality>
+  <Municipality>
+    <MunicipalityName>Vilnius</MunicipalityName>
+    <TaxDate>2016-04-30T00:00:00</TaxDate>
+    <Tax>0.2</Tax>
+  </Municipality>
+</ArrayOfMunicipality>
